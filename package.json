@@ -1,0 +1,8 @@
+{
+  "name": "student-crud-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.4.2"
+  }
+}
